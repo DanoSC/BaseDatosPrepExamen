@@ -3,7 +3,7 @@
 
 Para empezar este commit creamo la tabla correspondiente para poder trabajar con ello 
 
-![](1magenes/1.png)
+![](imagenes/1.png)
 
 ---
 
